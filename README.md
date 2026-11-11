@@ -1,5 +1,3 @@
-![Orgalytics AI Insights for Google Search Console](icon.png)
-
 # Orgalytics AI Insights for Google Search Console
 
 <p>
